@@ -8,7 +8,7 @@ I enjoy combining my gustos with data. Holding MSc. Applied Data Science at Utre
 - Programming languages : <br />
  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
  ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
 
 - Machine Learning / Deep Learning / Data Analysis frameworks : <br />
  ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00)
